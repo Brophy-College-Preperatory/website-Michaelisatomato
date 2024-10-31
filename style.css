@@ -1,0 +1,12 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(224, 249, 255);
+}
+h1 {
+    font-family: copperplate, Times, fantasy;
+  }
+
+h1 {
+    color: green ;
+}
